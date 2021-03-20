@@ -25,6 +25,8 @@ body{
 .svgFirst{
     width: max-content;
     transform: scale(-1, -1); 
+    width: 90%;
+    height: 90%;
    
 }
 .svgSecond{
@@ -70,6 +72,9 @@ body{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+ }
+ .bold{
+     font-weight: bold;
  }
  .quest:hover{
      color: hsl(14, 88%, 65%);
