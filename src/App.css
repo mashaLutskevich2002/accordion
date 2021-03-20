@@ -1,0 +1,97 @@
+
+@media screen and (min-width: 960px) {
+body{
+    height: 705px;
+    background-image: linear-gradient(to top right, rgb(101, 115, 255), rgb(111, 114, 247), rgb(120, 114, 239), rgb(130, 113, 231), rgb(139, 112, 223), rgb(149, 111, 215), rgb(158, 111, 208), rgb(168, 110, 200), rgb(177, 109, 192), rgb(187, 108, 184), rgb(196, 108, 176), rgb(206, 107, 168));
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main{
+    width: 750px;
+    height: 400px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    
+}
+.main__pic{
+    width: 50%;
+    position: relative;
+    overflow:hidden;
+}
+.svgFirst{
+    width: max-content;
+    transform: scale(-1, -1); 
+   
+}
+.svgSecond{
+    height: 280px;
+    position: absolute;
+    left: 0;
+    transform:translate(-18%,20%);
+ }
+ .svgSecond:hover{
+    height: 300px;
+    position: absolute;
+    left: 0;
+    transform:translate(-18%,20%);
+ }
+ .svgThird{
+    height: 120px;
+    position: absolute;
+    left: 0;
+    transform:translate(266%,145%);
+ }
+ .svgThird:hover{
+    height: 150px;
+    position: absolute;
+    left: 0;
+    transform:translate(200%,100%);
+  }
+ .svgForth{
+    height: 200px;
+    position: absolute;
+    left: 0;
+    transform:translate(-30%,120%); 
+ }
+ .FAQ{
+    font-family: 'Kumbh Sans', sans-serif;
+    margin-top: 40px;
+ }
+ .quest{
+     width: 340px;
+     height: 30px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: small;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+ }
+ .quest:hover{
+     color: hsl(14, 88%, 65%);
+ }
+ .svgStrelka{
+    height: max-content;
+ }
+ .another{
+     transform: scale(-1, -1);
+ }
+.answer{
+    width: 340px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: x-small;
+    margin-top: -10px;
+    line-height: 15px;
+    display: none;
+
+}
+.new{
+    transform: scale(-1, -1) ;
+    width: 50px;
+}
+
+}
