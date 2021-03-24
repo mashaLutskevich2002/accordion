@@ -39,7 +39,7 @@ const LeftDiv = () => {
 
 const RightDiv = () => {
   return (
-    <div>
+    <div className='m-div'>
       <div className='FAQ'>
       <h1>FAQ</h1>
     </div>
@@ -88,7 +88,7 @@ const Accardion = () => {
   );
 
   return (
-    <div>
+    <div className='questAnsw'>
       { listItems}
     </div>
 
