@@ -1,7 +1,5 @@
 import './App.css';
-// import React from 'react';
 import React, { useState }  from 'react';
-// import  icon from './img/icon-arrow-down.svg';
 import  women from './img/illustration-woman-online-desktop.svg';
 import  bg from './img/bg-pattern-mobile.svg';
 import  bg1 from './img/bg-pattern-desktop.svg';
