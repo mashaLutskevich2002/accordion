@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/accordion/static/css/main.7e4cd9e0.chunk.css",
+    "main.js": "/accordion/static/js/main.e6339371.chunk.js",
+    "main.js.map": "/accordion/static/js/main.e6339371.chunk.js.map",
+    "runtime-main.js": "/accordion/static/js/runtime-main.0bd7daaa.js",
+    "runtime-main.js.map": "/accordion/static/js/runtime-main.0bd7daaa.js.map",
+    "static/js/2.6514c8fc.chunk.js": "/accordion/static/js/2.6514c8fc.chunk.js",
+    "static/js/2.6514c8fc.chunk.js.map": "/accordion/static/js/2.6514c8fc.chunk.js.map",
+    "index.html": "/accordion/index.html",
+    "static/css/main.7e4cd9e0.chunk.css.map": "/accordion/static/css/main.7e4cd9e0.chunk.css.map",
+    "static/js/2.6514c8fc.chunk.js.LICENSE.txt": "/accordion/static/js/2.6514c8fc.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern-desktop.96dd49fa.svg": "/accordion/static/media/bg-pattern-desktop.96dd49fa.svg",
+    "static/media/bg-pattern-mobile.55aee912.svg": "/accordion/static/media/bg-pattern-mobile.55aee912.svg",
+    "static/media/icon-arrow-down.852fa301.svg": "/accordion/static/media/icon-arrow-down.852fa301.svg",
+    "static/media/illustration-box-desktop.ec1ba14b.svg": "/accordion/static/media/illustration-box-desktop.ec1ba14b.svg",
+    "static/media/illustration-woman-online-desktop.843eb114.svg": "/accordion/static/media/illustration-woman-online-desktop.843eb114.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bd7daaa.js",
+    "static/js/2.6514c8fc.chunk.js",
+    "static/css/main.7e4cd9e0.chunk.css",
+    "static/js/main.e6339371.chunk.js"
+  ]
+}
